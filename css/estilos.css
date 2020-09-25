@@ -26,3 +26,10 @@ body{
 {
     font-size: 20px;
 }
+
+.footer{
+    background: darkolivegreen;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
