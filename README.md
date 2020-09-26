@@ -4,8 +4,8 @@ Un gran blog.
 ## About
 Este es un blog de práctica que nos ayuda a comprender el uso de Git y GitHub.
 
-##Autor
+## Autor
 Jorge L. Céspedes Tapia
 
-##Cita
+## Cita
 > Nunca pares de aprender.
